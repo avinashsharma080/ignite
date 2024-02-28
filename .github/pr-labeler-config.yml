@@ -1,20 +1,20 @@
 # Add 'docker' to any changes within 'docker' folder or any subfolders
-docker:
+"docker":
   - changed-files:
     - any-glob-to-any-file: docker/**
 
 # Add 'docs' to any changes within 'docs' folder
-docs:
+"docs":
   - changed-files:
     - any-glob-to-any-file: docs/**
 
 # Add 'ci' to any changes in '.github' folder
-ci:
+"ci":
   - changed-files:
     - any-glob-to-any-file: .github/**
 
 # Add 'examples' to any changes within 'examples' folder
-examples:
+"examples":
   - changed-files:
     - any-glob-to-any-file: examples/** 
 
