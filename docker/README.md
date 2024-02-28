@@ -1,6 +1,6 @@
 # Docker for users
 
-We provide Dockerfiles in order to build containerized execution environment that ease the use of Ignite for computer vision and NLP tasks.
+We provide Dockerfiles in order to build containerized execution environment that will ease the use of Ignite for computer vision and NLP related tasks.
 
 These images are also provided with the following Horovod configuration:
 
